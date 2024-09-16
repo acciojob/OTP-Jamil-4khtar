@@ -32,3 +32,6 @@ body {
     text-align: center;
     font-size: 2rem;
 }
+.code:focus {
+    border-bottom: 3px solid rgba(167, 184, 218, 0.607);
+}
