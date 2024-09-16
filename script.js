@@ -22,4 +22,4 @@ inputs.forEach((input, i) => {
         }
     })
 })
-
+let focused = document.querySelector("p");
