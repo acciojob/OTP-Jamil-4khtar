@@ -9,6 +9,10 @@ body {
     align-items: center;
     justify-content: center;
 }
+.code-container{
+    /* border: 1px solid red; */
+    min-height: 150px;
+}
 .container {
 
     background: rgba(167, 184, 218, 0.607);
@@ -33,5 +37,5 @@ body {
     font-size: 2rem;
 }
 .code:focus {
-    border-bottom: 3px solid rgba(167, 184, 218, 0.607);
+    border-bottom: 3px solid rgba(78, 126, 224, 0.607);
 }
