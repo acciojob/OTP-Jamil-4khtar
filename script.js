@@ -21,4 +21,5 @@ inputs.forEach((input, i) => {
             inputs[i-1].focus();
         }
     })
+	inputs[0].focus()
 })
